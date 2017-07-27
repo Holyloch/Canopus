@@ -1,0 +1,23 @@
+<!-- This is a basic html file with some script added
+the paragraph tag has an id of 'demo' and the id is where the 
+variable three will display. demo must be surrounded in quotes.
+Then when it comes to script it is important that innerHTML have the 
+HTML part in all caps or script will fail.
+
+
+<!Doctype>
+    <html>
+        <head>
+            <title>CalcScript</title>
+                <body>
+                    <p id='demo'></p>
+<script>
+    var one = 100;
+    var two = 3;
+    var three = one / two;
+    document.getElementById('demo').innerHTML = three;
+</script>
+            
+                </body>
+        </head>
+    </html>
