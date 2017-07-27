@@ -1,6 +1,8 @@
-
 # Canopus
 Canopus is a mothballed Submarine Tender that was in Holyloch Scotland. Polaris Nuke loader.
+
+The best I can do right now (today) is try to help others new to adding javascript to html. I will
+write some code and point out the most usual pitfalls I come across.
 
 Right now I am a newbee and am good with Html, CSS, however need JavaScript for calculations etc.
 Using Visual Studio Code and came across ReactJs.
